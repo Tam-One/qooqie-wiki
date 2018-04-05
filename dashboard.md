@@ -7,8 +7,16 @@
 
 # Filteren op conversies
 
+## Conversie per kanaal
+
+## Conversie per Google kanaal
+
 # Filteren op keywords
 
 # Filteren op campagnes
 
-# Filteren op periode
+# Filteren op periode specifiek
+
+## Filteren per dag
+
+## Filteren per tijdstip
