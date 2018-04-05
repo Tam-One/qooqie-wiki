@@ -28,4 +28,7 @@ Het vervangen van nummers wordt automatisch gedaan door het script zodra deze op
 
 Het is ook mogelijk om met een spannertje zelf te kiezen welke telefoonnummers er vervangen dienen te worden op de website. Alle telefoonnummers die je wilt vervangen met een dynamisch qooqie nummer dien je te omhullen met een element naar keuze met het attribuut: class="qooqie-number-placeholder".
 
+# Wat moet je controleren als qooqie call tracking niet werkt op je website?
+Als eerste is het belangrijk om te kijken of het script goed op de website staat. Staat deze goed op de website, dan is het misschien toch nodig voor jouw website om het spannertje te plaatsen om het telefoonnummer heen. 
+
 
