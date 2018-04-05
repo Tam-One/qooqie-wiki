@@ -9,13 +9,10 @@ Koppel je het Google Tag Manager account met je qooqie account. Als je hebt gekl
 # Koppeling met Google AdWords
 Je qooqie account kun je synchroniseren met je Adwords account. Als je dit doet dan kan je de AdWords accounts die je wilt gebruiken voor dynamische call tracking selecteren.
 ![Adwords](/uploads/adwords.png "Adwords")
-Als je een AdWords account hebt gekozen kan je vervolgens je AdWords campagnes synchroniseren met het qooqie account. Hierdoor hoef je niet al je campagnes opnieuw in te voeren.
-
-
-
+Als je een AdWords account hebt gekozen kan je vervolgens je AdWords campagnes synchroniseren met het qooqie account. Hierdoor hoef je niet alle campagnes opnieuw in te voeren.
 
 # Koppeling met Google Analytics
-
+Als jij je qooqie account koppelt met je Google account, worden je qooqie activiteiten aangemaakt in Analytics als een event. Zo kun je ook in je Analytics terug zien wat jouw qooqie activiteiten zijn!
 
 
 
