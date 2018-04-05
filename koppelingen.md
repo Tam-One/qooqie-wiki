@@ -17,7 +17,7 @@ Het script dat op je website komt, vind je terug bij de Integratie onder instell
 ```
 <script>
     var _qooqie = _qooqie || {};
-    _qooqie['subtenant_id'] = 143;
+    _qooqie['subtenant_id'] = 49;
     _qooqie['api_url'] = 'https://api.qooqie.com';
     (function() {
         var q   = document.createElement('script');
@@ -33,10 +33,6 @@ Vervolgens zoekt het script op jouw website de telefoonnummers die vervangen moe
 
 
 
------
-
-
-
 # Koppeling met Google AdWords
 Door het koppelen van je Google Account kan je ook je Google AdWords campagnes koppelen met het qooqie account. 
 Je selecteert de AdWords accounts die je wilt gebruiken voor dynamische call tracking. Dit ziet er als volgt uit:
@@ -46,9 +42,12 @@ Als je de accounts hebt geselecteerd kan je deze synchroniseren. Aan de linkerka
 
 
 
+# Integratie zonder Google Tag Manager
+Als je geen Google Tag Manager gebruikt of het zelf wilt doen, kan je ook integreren zonder een Tag Manager account. Daarvoor zijn de volgende stappen vereist:
 
+- Kopieer het script en plak deze in je website na de opende body tag.
 
-
+![Script](/uploads/adwords.png "Script")      
 
 
 
