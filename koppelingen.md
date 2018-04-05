@@ -28,8 +28,8 @@ Het script dat op je website komt, vind je terug bij de Integratie onder instell
 # Koppeling met Google AdWords
 Door het koppelen van je Google Account kan je ook je Google AdWords campagnes koppelen met het qooqie account. 
 Je selecteert de AdWords accounts die je wilt gebruiken voor dynamische call tracking. Dit ziet er als volgt uit:
-![Adwords](/uploads/adwords.png "Adwords")
-![Adwords](/uploads/adwords.png "Adwords2")
+![Adwords](/uploads/adwords.png "Adwords")                                  ![Adwords 2](/uploads/adwords-2.png "Adwords 2")
+
 
 
 
