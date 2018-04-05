@@ -54,11 +54,11 @@ Het script heeft de mogelijkheid om automatisch telefoonnummers op je website(s)
 WIl je toch liever zelf controle houden over de telefoonnummers die vervangen moeten worden? Dan moet je de volgende stappen ondernemen:
 
 - Alle telefoonnummers die je wilt vervangen met een dynamisch qooqie nummer dien je te omhullen met een element naar keuze met het attribuut: class="qooqie-number-placeholder".
+![Span](/uploads/span.png "Span")
 
 
-
-
-
+Inlichten van de webbeheerder
+Als jij de website in beheer hebt van een webbeheerder, is het mogelijk om door hem of haar de integratie te laten doen.
 
 
 
