@@ -77,5 +77,6 @@ Als jij de website in beheer hebt van een webbeheerder, is het mogelijk om door 
 Als je klikt op informeer webbeheerder krijg je een pop-up waarin je het email-adres en het domein voor integratie opgeeft. Zo krijgt je webbeheerder de benodigde informatie.
 
 
+# API koppelingen
 
 
