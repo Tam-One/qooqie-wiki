@@ -71,10 +71,10 @@ Wil je toch liever zelf controle houden over de telefoonnummers die vervangen mo
 ![Span](/uploads/span.png "Span")
 
 
-# Inlichten van de webbeheerder
+# Informeren van de webbeheerder
 Als jij de website in beheer hebt van een webbeheerder, is het mogelijk om door hem of haar de integratie te laten doen.
 ![Informeer](/uploads/informeer.png "Informeer")
-Als je klikt op informeer webbeheerder krijg je een pop-up waarin je het email-adres en het domein voor integratie opgeeft. Zo krijgt jouw webbeheerder de benodigde informatie.
+Als je klikt op informeer webbeheerder krijg je een pop-up waarin je het email-adres en het domein voor integratie opgeeft. Zo krijgt je webbeheerder de benodigde informatie.
 
 
 
