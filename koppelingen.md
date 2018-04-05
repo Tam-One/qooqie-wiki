@@ -33,6 +33,10 @@ Vervolgens zoekt het script op jouw website de telefoonnummers die vervangen moe
 
 
 
+-----
+
+
+
 # Koppeling met Google AdWords
 Door het koppelen van je Google Account kan je ook je Google AdWords campagnes koppelen met het qooqie account. 
 Je selecteert de AdWords accounts die je wilt gebruiken voor dynamische call tracking. Dit ziet er als volgt uit:
