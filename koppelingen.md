@@ -29,7 +29,7 @@ Het script dat op je website komt, vind je terug bij de Integratie onder instell
 </script>
 ```
 
-
+Vervolgens zoekt het script op jouw website de telefoonnummers die vervangen moeten worden. De telefoonnummers die als doorschakelnummer in het qooqie systeem staan, worden door het script opgezocht. Deze worden automatisch vervangen door een uniek traceerbaar telefoonnummer. Het is ook mogelijk om het zelf te doen als je geen Google Tag Manager gebruikt. Gebruik je geen Tag Manager? Kijk dan onder het kopje "integratie zonder Google Tag Manager" en volg die stappen. 
 
 
 
@@ -37,6 +37,8 @@ Het script dat op je website komt, vind je terug bij de Integratie onder instell
 Door het koppelen van je Google Account kan je ook je Google AdWords campagnes koppelen met het qooqie account. 
 Je selecteert de AdWords accounts die je wilt gebruiken voor dynamische call tracking. Dit ziet er als volgt uit:
 ![Adwords](/uploads/adwords.png "Adwords")                                  ![Adwords 2](/uploads/adwords-2.png "Adwords 2")
+
+Als je de accounts hebt geselecteerd kan je deze synchroniseren. Aan de linkerkant in het menu zie je dan een kopje Google verschijnen en daar worden jouw lopende AdWords campagnes in teruggeschoten. Zo hoef je niet opnieuw handmatig al je campagnes in te voeren. De telefoonnummers van qooqie die aan AdWords gekoppeld worden zijn dynamisch. 
 
 
 
