@@ -3,7 +3,7 @@
 # De styling van dynamische nummers aanpassen
 Je kunt zelf kiezen welke opmaak jouw qooqie telefoonnummers moeten hebben. Ook kun je deze wijzigen. Dit doe je in het qooqie dashboard bij de instellingen onder het kopje Telefoonnummers. Hier kun je kiezen voor een nationale opmaak, internationale opmaak of internationale zonder opmaak kiezen.
 # Beoordeling gesprek
-De beoordeling van een gesprek wordt aangeven in een aantal sterren op van basis tijdsduur. 
+De beoordeling van een gesprek wordt aangegeven in een aantal sterren. De sterren worden gebaseerd op basis van een aantal seconden. Standaard is het zo dat qooqie per 30 seconden een ster extra geeft in de beoordeling. Het is mogelijk om dit op maat te maken naar jouw wensen.
 # Call recording
 Met call recording kun jij de inkomende telefonie opnemen. De opnames kun je gebruiken voor kwalitatieve doeleinden. Je kunt er zelf voor kiezen of jij telefoontjes wel of niet opneemt. In het instellingenmenu bij “telefoonnummers” kun je aanvinken of je call recording wel of niet aan wilt zetten. 
 # Opmaak telefoonnummer
