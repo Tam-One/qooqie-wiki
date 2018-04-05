@@ -1,6 +1,4 @@
 <!-- TITLE: Campagnes -->
-<!-- SUBTITLE: A quick summary of Campagnes -->
-
 # Campagne overzicht
 In het campagne overzicht zie je alle campagnes, actief en inactief. Je kan ook zoeken op een campagne rechts bovenin het scherm. 
 # Het toevoegen van een campagne
