@@ -10,7 +10,7 @@ Ook kan je het Google Tag Manager Account koppelen. Op die manier kan je eenvoud
 ![Account Koppelen](/uploads/account-koppelen.png "Account Koppelen")
 Als je hier op klikt krijg je een pop-up en kan je het tagmanager account koppelen. Je moet nog wel het script kopiëren en plakken in je Google Tag Manager account.
 
-Het script dat je dient te plakken in je website is dit script:
+Het script dat op je website komt, vind je terug bij de Integratie onder instellingen. Het script dat je dient te plakken in je website ziet er als volgt uit:
 ```
 <script>
     var _qooqie = _qooqie || {};
@@ -26,8 +26,10 @@ Het script dat je dient te plakken in je website is dit script:
 </script>
 ```
 # Koppeling met Google AdWords
-
-
+Door het koppelen van je Google Account kan je ook je Google AdWords campagnes koppelen met het qooqie account. 
+Je selecteert de AdWords accounts die je wilt gebruiken voor dynamische call tracking. Dit ziet er als volgt uit:
+![Adwords](/uploads/adwords.png "Adwords")
+![Adwords](/uploads/adwords.png "Adwords2")
 
 
 
