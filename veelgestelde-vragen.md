@@ -2,7 +2,7 @@
 <!-- SUBTITLE:Veelgestelde vragen door onze klanten -->
 
 # Wat is een sessie?
-Een sessie start op het moment dat een bezoeker op jouw website komt en eindigt zodra deze bezoeker jouw website verlaat. 
+Een sessie start op het moment dat een bezoeker op jouw website komt en eindigt zodra deze bezoeker jouw website verlaat. De verschillende pagina's die een klant bezoekt op je website behoren ook tot een sessie.
 # Wat is een lead?
 Zodra iemand op jouw website komt, start er een sessie. Pakt deze bezoeker ook daadwerkelijk de telefoon op en belt dan wordt deze sessie omgezet naar een lead. In de inbox zie je dan onder het kopje “leads” de telefoonnummers die gebeld hebben naar jouw bedrijf.
 # Ik heb meerdere vestigingen, maar wil er maar 1 meten.
@@ -10,14 +10,15 @@ Ook dat is mogelijk met qooqie call tracking. Heb jij bijvoorbeeld meerdere vest
 # Wat moet je controleren als qooqie call tracking niet werkt op je website?
 Als qooqie call tracking niet werkt op je website dien je een aantal facetten te checken. Dit zijn:
 
-- De verificatie van het domein. Kijk of het domein goed geverifieerd is. Is dit niet het geval? Verifieer dan je domein opnieuw.
-- Staat het script op de juiste plaats? Kijk of het script op de juiste plek staat op jouw website. Het script plak je onder de opende body tag.
-- Gebruik je een spannertje? Kijk of het spannertje op de juiste plek staat om het telefoonnummer heen. De juiste wijze is als volgt:
-``` 
-<span class=qooqie-number-placeholder"> TEL. NUMMER</span> 
+- De verificatie van het domein. Kijk of de verificatie van het domein goed is gegaan. Ga bij instellingen naar het tabblad "domein". Hier kan je zien of het script goed is geïmplementeerd op je website. Als dit niet geval is, ligt dat aan de plaatsing van het script of aan de overeenkomst tussen de nummers op de website en de doorschakelnummers.
+- Staat het script op de juiste plaats? Kijk bij instellingen onder integratie waar je het script moet plaatsen.  Het script plak je onder de opende body tag.
+- Komen de doorschakelnummers overeen met de nummers op je website? Als deze niet overeen komen, kan het script van qooqie niet de nummers herkennen.
+- Track je meerdere vestigingen? Kijk of het spannertje op de juiste plek staat om het telefoonnummer heen. De juiste wijze is als volgt:
 ```
-- Komen de doorschakelnummers overeen met de nummers op je website? Als deze niet overeen komen, kan het script van qooqie niet de nummers herkennen. 
-# Wat is off-site meten?
+<span class="qooqie-priority-number-placeholder">TEL. NUMMER</span>
+```
+
+# Wat is off-site meten? 
 Off-site meten gaat om alle metingen die off-site gebeuren, dus niet op de site. Dit is bijvoorbeeld een flyer met een traceerbaar telefoonnummer. Ook kan het gaan om Google mijn bedrijf waar ook weer een uniek traceerbaar telefoonnummer getoond wordt. 
 # Wat is on-site meten?
 On-site meten zijn alle metingen die op de website gedaan worden. Iedere bezoeker van jouw website wordt hier gemeten.
