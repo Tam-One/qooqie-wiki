@@ -46,7 +46,20 @@ Als je de accounts hebt geselecteerd kan je deze synchroniseren. Aan de linkerka
 Als je geen Google Tag Manager gebruikt of het zelf wilt doen, kan je ook integreren zonder een Tag Manager account. Daarvoor zijn de volgende stappen vereist:
 
 - Kopieer het script en plak deze in je website na de opende body tag.
-![Script](/uploads/script.png "Script")
+```
+<script>
+    var _qooqie = _qooqie || {};
+    _qooqie['subtenant_id'] = KLANT_ID;
+    _qooqie['api_url'] = 'https://api.qooqie.com';
+    (function() {
+        var q   = document.createElement('script');
+        q.type  = 'text/javascript'; q.async = true;
+        q.src   = 'https://api.qooqie.com/bundle';
+        var s   = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(q, s);
+    })();
+</script>
+```
 Vergeet niet om automatisch nummers vervangen aan te zetten!
 
 Het script heeft de mogelijkheid om automatisch telefoonnummers op je website(s) te herkennen. Wanneer je de functie inschakeld en het script een van je doorschakelnummers herkent, zal er automatisch een qooqie nummer worden geplaatst ter vervanging van het gevonden standaard telefoonnummer. 
