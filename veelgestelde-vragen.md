@@ -1,4 +1,4 @@
 <!-- TITLE: Veelgestelde Vragen -->
-<!-- SUBTITLE: A quick summary of Veelgestelde Vragen -->
+<!-- SUBTITLE:Veelgestelde vragen door onze klanten -->
 
 # Header
