@@ -5,6 +5,9 @@
 Onder het kopje Integratie bij instellingen kan jij je Google account koppelen. Dit doe je door middel van deze button:
 ![Integratie](/uploads/integratie.png "Integratie")
 Hier schakel je ook gelijk call tracking in of uit.
+
+
+
 # Koppeling met je Google Tag Manager Account
 Ook kan je het Google Tag Manager Account koppelen. Op die manier kan je eenvoudig het qooqie script plaatsen met onze handige tool.
 ![Account Koppelen](/uploads/account-koppelen.png "Account Koppelen")
@@ -25,6 +28,11 @@ Het script dat op je website komt, vind je terug bij de Integratie onder instell
     })();
 </script>
 ```
+
+
+
+
+
 # Koppeling met Google AdWords
 Door het koppelen van je Google Account kan je ook je Google AdWords campagnes koppelen met het qooqie account. 
 Je selecteert de AdWords accounts die je wilt gebruiken voor dynamische call tracking. Dit ziet er als volgt uit:
