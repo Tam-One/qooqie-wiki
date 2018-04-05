@@ -8,7 +8,7 @@ Zodra iemand op jouw website komt, start er een sessie. Pakt deze bezoeker ook d
 # Ik heb meerdere vestigingen, maar wil er maar 1 meten.
 Ook dat is mogelijk met qooqie call tracking. Heb jij bijvoorbeeld meerdere vestigingen en maar voor één  vestiging een campagne? Met het attribuut: class=”qooqie-priority-number-placeholder” kun je dit instellen. Op de plekken waar je call tracking wil, plaats je dat stukje script. Op basis van de campagne en de gekoppelde vestiging wordt er een van de dynamische nummers op deze plek getoond.
 # Wat moet je controleren als qooqie call tracking niet werkt op je website?
-Als qooqie call tracking niet werkt op je website dien je een aantal facetten te checken. Dit zijn:
+Als qooqie call tracking niet werkt op je website dien je een aantal facetten na te gaan. Dit zijn:
 
 - De verificatie van het domein. Kijk of de verificatie van het domein goed is gegaan. Ga bij instellingen naar het tabblad "domein". Hier kan je zien of het script goed is geïmplementeerd op je website. Als dit niet geval is, ligt dat aan de plaatsing van het script of aan de overeenkomst tussen de nummers op de website en de doorschakelnummers.
 - Staat het script op de juiste plaats? Kijk bij instellingen onder integratie waar je het script moet plaatsen.  Het script plak je onder de opende body tag.
@@ -17,7 +17,6 @@ Als qooqie call tracking niet werkt op je website dien je een aantal facetten te
 ```
 <span class="qooqie-priority-number-placeholder">TEL. NUMMER</span>
 ```
-
 # Wat is off-site meten? 
 Off-site meten gaat om alle metingen die off-site gebeuren, dus niet op de site. Dit is bijvoorbeeld een flyer met een traceerbaar telefoonnummer. Ook kan het gaan om Google mijn bedrijf waar ook weer een uniek traceerbaar telefoonnummer getoond wordt. 
 # Wat is on-site meten?
