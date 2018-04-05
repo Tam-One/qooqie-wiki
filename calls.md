@@ -6,6 +6,15 @@ Je kunt zelf kiezen welke opmaak jouw qooqie telefoonnummers moeten hebben. Ook 
 De beoordeling van een gesprek wordt aangegeven in een aantal sterren. De sterren worden gebaseerd op basis van een aantal seconden. Standaard is het zo dat qooqie per 30 seconden een ster extra geeft in de beoordeling. Het is mogelijk om dit op maat te maken naar jouw wensen.
 # Call recording
 Met call recording kun jij de inkomende telefonie opnemen. De opnames kun je gebruiken voor kwalitatieve doeleinden. Je kunt er zelf voor kiezen of jij telefoontjes wel of niet opneemt. In het instellingenmenu bij “telefoonnummers” kun je aanvinken of je call recording wel of niet aan wilt zetten. 
+
+Note: het is wel de bedoeling dat je de **beller** op de hoogte brengt van het feit dat je een gesprek opneemt. 
+# Keuzemenu vooraf
+Het is mogelijk om een keuzemenu te doen vooraf het gesprek. De klant krijgt hier de keuze om doorgeschakeld te worden naar een bepaalde afdeling. Het is mogelijk om een geluidsbestand te uploaden. Mocht je de telefoongespreken opnemen met behulp van call recording is het aan te raden om in het geluidsfragment te vermelden dat het gesprek wordt opgenomen.
+
+Het bestand van het geluidsfragment moet voldoen aan de volgende eisen:
+Extensie: .wav
+Sample Rate: 8000 Hz
+minimaal 8 Bits, Mono
 # Opmaak telefoonnummer
 De opmaak van het telefoonnummer kan je zelf kiezen. Dit kan een regionaal of nationaal telefoonnummer zijn. 
 # Regionaal nummer
