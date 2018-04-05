@@ -15,6 +15,8 @@ Het bestand van het geluidsfragment moet voldoen aan de volgende eisen:
 Extensie: .wav
 Sample Rate: 8000 Hz
 minimaal 8 Bits, Mono
+# Rechten
+Aan het opnemen van telefoongesprekken zijn er rechten verbonden. De **beller** moet op de hoogte zijn van het feit dat het gesprek wordt opgenomen voor trainings- en servicedoeleinden. 
 # Opmaak telefoonnummer
 De opmaak van het telefoonnummer kan je zelf kiezen. Dit kan een regionaal of nationaal telefoonnummer zijn. 
 # Regionaal nummer
