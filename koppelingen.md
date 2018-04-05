@@ -17,7 +17,7 @@ Het script dat op je website komt, vind je terug bij de Integratie onder instell
 ```
 <script>
     var _qooqie = _qooqie || {};
-    _qooqie['subtenant_id'] = 49;
+    _qooqie['subtenant_id'] = KLANT_ID;
     _qooqie['api_url'] = 'https://api.qooqie.com';
     (function() {
         var q   = document.createElement('script');
