@@ -1,5 +1,7 @@
 <!-- TITLE: Algemeen -->
 
+# Realtime dashboard
+Zodra je ingelogd bent bij qooqie kom je direct bij het Realtime dashboard terecht. Hier zie je de laatste ontwikkelingen in jouw qooqie data.
 # Resultaat tot op het zoekwoord (AdWords)
 Doordat er aan jouw AdWords advertentie dynamische telefoonnummers gekoppeld worden, is het mogelijk om te achterhalen welke zoekwoorden een bezoeker van jouw website heeft gebruikt. Zo weet je welke zoekwoorden resultaat opleveren en welke minder succesvol zijn. 
 
@@ -9,8 +11,7 @@ Iedere bezoeker die op jouw website komt, krijgt een eigen uniek telefoonnummer 
 # Vast nummer
 Een vast nummer wordt uitgegeven voor een campagne waarbij er maar één nummer nodig is om te kunnen meten. Dit kan bijvoorbeeld een flyer- of een brochure campagne zijn. 
 
-# Realtime dashboard
-Zodra je ingelogd bent bij qooqie kom je direct bij het Realtime dashboard terecht. Hier zie je de laatste ontwikkelingen in jouw qooqie data.
+
 
 # Beoordeling in Google Analytics
 In Google Analytics wordt er een event aangemaakt op het moment dat er een qooqie conversie plaatsvind. 
