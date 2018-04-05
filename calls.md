@@ -1,5 +1,4 @@
 <!-- TITLE: Calls -->
-<!-- SUBTITLE: A quick summary of Calls -->
 # De styling van dynamische nummers aanpassen
 Je kunt zelf kiezen welke opmaak jouw qooqie telefoonnummers moeten hebben. Ook kun je deze wijzigen. Dit doe je in het qooqie dashboard bij de instellingen onder het kopje Telefoonnummers. Hier kun je kiezen voor een nationale opmaak, internationale opmaak of internationale zonder opmaak kiezen.
 # Beoordeling gesprek
