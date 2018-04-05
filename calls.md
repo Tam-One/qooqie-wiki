@@ -8,11 +8,9 @@ De beoordeling van een gesprek wordt aangegeven in een aantal sterren. De sterre
 Met call recording kun jij de inkomende telefonie opnemen. De opnames kun je gebruiken voor kwalitatieve doeleinden. Je kunt er zelf voor kiezen of jij telefoontjes wel of niet opneemt. In het instellingenmenu bij “telefoonnummers” kun je aanvinken of je call recording wel of niet aan wilt zetten. 
 # Opmaak telefoonnummer
 De opmaak van het telefoonnummer kan je zelf kiezen. Dit kan een regionaal of nationaal telefoonnummer zijn. 
-
 # Regionaal nummer
 Met een regionaal telefoonnummer laat je zien vanuit welke regio je komt. Dit zijn bijvoorbeeld 010-nummers. 
 # Nationaal nummer
 Een nationaal telefoonnummer is een landelijk telefoonnummer waar je niet direct uit kunt afleiden vanuit welke regio je komt. Dit kunnen bijvoorbeeld 085-nummers zijn. 
-
 # Nummeruitgave
-Nummeruitgave vind plaats vanuit qooqie. Met het door jou gekozen pakket krijg jij een aantal dynamische Google AdWords leadnummers en vaste telefoonnummers toegewezen aan jouw account. 
+Nummeruitgave vind plaats vanuit qooqie. Op basis van het pakket dat jij hebt gekozen, krijg je een aantal dynamische Google AdWords leadnummers en vaste telefoonnummers toegewezen aan jouw account. 
