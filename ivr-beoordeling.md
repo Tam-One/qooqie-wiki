@@ -19,7 +19,7 @@ De bestanden voor een geluidsfragment dienen aan een aantal voorwaarden te voldo
 
 Extensie: .wav 
 Sample Rate: 8000 Hz 
-minimaal 8 Bits, Mono
+Minimaal 8 Bits, Mono
 # Uitbreiden IVR beoordeling
 Het is mogelijk om de IVR beoordeling uit te breiden naar wat jij nodig hebt. Echter moet dit op maat gemaakt worden en daarom raden wij aan contact op te nemen met ons voor de mogelijkheden. Enkele voorbeelden zijn meer keuzes/beoordelingen na het gesprek, het gesprek laten beoordelen door de klant of een aanvraag vooraf. 
 
