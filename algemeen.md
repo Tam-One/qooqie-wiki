@@ -1,7 +1,7 @@
 <!-- TITLE: Algemeen -->
 
 # Realtime dashboard
-Zodra je ingelogd bent bij qooqie kom je direct bij het Realtime dashboard terecht. De benaming realtime zegt het al, alles wordt op de seconde bijgehouden. Je hebt direct resultaat in je scherm en hoeft bijvoorbeeld niet een aantal uren te wachten tot de resultaten zichtbaar zijn. 
+Middels een overzichtelijk dashboard monitor je realtime de prestaties van al je marketingkanalen. Per kanaal wordt er onder andere inzichtelijk gemaakt wie er heeft gebeld, hoe lang het gesprek heeft geduurd en welk keyword heeft geleid tot een lead. Qooqie call tracking maakt inzichtelijk hoeveel rendement je marketing investering oplevert.
 # Wat is een sessie
 Een sessie start op het moment dat een bezoeker op jouw website komt en eindigt zodra deze bezoeker jouw website verlaat. Ook het schakelen tussen subpagina's op jouw website behoort tot de sessie. 
 # Wat is een lead
