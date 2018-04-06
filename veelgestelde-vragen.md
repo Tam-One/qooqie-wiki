@@ -15,7 +15,7 @@ Als qooqie call tracking niet werkt op je website dien je een aantal facetten na
 - Komen de doorschakelnummers overeen met de nummers op je website? Als deze niet overeen komen, kan het script van qooqie niet de nummers herkennen.
 - Track je meerdere vestigingen? Kijk of het spannertje op de juiste plek staat om het telefoonnummer heen. De juiste wijze is als volgt:
 ```
-<span class="qooqie-priority-number-placeholder">TEL. NUMMER</span>
+<span class="qooqie-priority-number-placeholder"> TEL. NUMMER </span>
 ```
 # Wat is off-site meten? 
 Off-site meten gaat om alle metingen die off-site gebeuren, dus niet op de site. Dit is bijvoorbeeld een flyer met een traceerbaar telefoonnummer. Ook kan het gaan om Google mijn bedrijf waar ook weer een uniek traceerbaar telefoonnummer getoond wordt. 
