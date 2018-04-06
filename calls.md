@@ -8,12 +8,12 @@ Met call recording kun jij de inkomende telefonie opnemen. De opnames kun je geb
 
 Note: het is wel de bedoeling dat je de **beller** op de hoogte brengt van het feit dat je een gesprek opneemt. 
 # Keuzemenu vooraf
-Het is mogelijk om een keuzemenu te doen vooraf het gesprek. De klant krijgt hier de keuze om doorgeschakeld te worden naar een bepaalde afdeling. Het is mogelijk om een geluidsbestand te uploaden. Mocht je de telefoongespreken opnemen met behulp van call recording is het aan te raden om in het geluidsfragment te vermelden dat het gesprek wordt opgenomen.
+Het is mogelijk om een keuzemenu te doen vooraf het gesprek. De klant krijgt hier de keuze om doorgeschakeld te worden naar een bepaalde afdeling. Het is mogelijk om een geluidsbestand te uploaden. Mocht je de telefoongesprekken opnemen met behulp van call recording is het aan te raden om in het geluidsfragment te vermelden dat het gesprek wordt opgenomen.
 
 Het bestand van het geluidsfragment moet voldoen aan de volgende eisen:
 Extensie: .wav
 Sample Rate: 8000 Hz
-minimaal 8 Bits, Mono
+Minimaal 8 Bits, Mono
 # Rechten
 Aan het opnemen van telefoongesprekken zijn er rechten verbonden. De **beller** moet op de hoogte zijn van het feit dat het gesprek wordt opgenomen voor trainings- en servicedoeleinden. 
 # Opmaak telefoonnummer
@@ -23,4 +23,4 @@ Met een regionaal telefoonnummer laat je zien vanuit welke regio je komt. Dit zi
 # Nationaal nummer
 Een nationaal telefoonnummer is een landelijk telefoonnummer waar je niet direct uit kunt afleiden vanuit welke regio je komt. Dit kunnen bijvoorbeeld 085-nummers zijn. 
 # Nummeruitgave
-Nummeruitgave vind plaats vanuit qooqie. Op basis van het pakket dat jij hebt gekozen, krijg je een aantal dynamische Google AdWords leadnummers en vaste telefoonnummers toegewezen aan jouw account. 
+Nummeruitgave vindt plaats vanuit qooqie. Op basis van het pakket dat jij hebt gekozen, krijg je een aantal dynamische Google AdWords leadnummers en vaste telefoonnummers toegewezen aan jouw account.
