@@ -1,5 +1,4 @@
 <!-- TITLE: Algemeen -->
-
 # Realtime dashboard
 Middels een overzichtelijk dashboard monitor je realtime de prestaties van al je marketingkanalen. Per kanaal wordt er onder andere inzichtelijk gemaakt wie er heeft gebeld, hoe lang het gesprek heeft geduurd en welk keyword heeft geleid tot een lead. Qooqie call tracking maakt inzichtelijk hoeveel rendement je marketing investering oplevert.
 # Wat is een sessie
@@ -22,10 +21,18 @@ Door middel van dynamisch gegenereerde nummers kan jij op je website meten waar 
 Door speciaal gegenereerde nummers kun jij ook al je andere campagnes meten, ook degenen vanuit bijvoorbeeld de krant. 
 In het dashboard voeg je een nieuwe campagne toe en geef aan dat je een off-site campagne gaat meten. Bijvoorbeeld print, radio of televisie. Vul de rest van de gegevens in en er zal een uniek traceerbaar telefoonnummer gegenereerd worden. Zo kan je ook off-site meten.
 # Ik heb meerdere vestigingen, maar wil er maar 1 meten.
-Ook dat is mogelijk met qooqie call tracking. Heb jij bijvoorbeeld meerdere vestigingen en maar voor één  vestiging een campagne? Met het attribuut: class=”qooqie-priority-number-placeholder” kun je dit instellen. Op de plekken waar je call tracking wil, plaats je dat spannertje. Op basis van de campagne en de gekoppelde vestiging wordt er een van de dynamische nummers op deze plek getoond.
+Ja, het is mogelijk om met qooqie call tracking maar één van je vestigingen meten. Heb jij bijvoorbeeld meerdere vestigingen en maar voor één vestiging een campagne? Met het attribuut: class=”qooqie-priority-number-placeholder” kun je dit instellen. Op de plekken waar je call tracking wil, plaats je dat spannertje. Op basis van de campagne en de gekoppelde vestiging wordt er een van de dynamische nummers op deze plek getoond.
 # Het vervangen van nummers op je website
 Het vervangen van nummers wordt automatisch gedaan door het script zodra deze op je website staat. Het script herkent namelijk de telefoonnummers. Als je de functie inschakelt, dan gaat het script op je website op zoek naar de doorschakelnummers die jij hebt ingegeven bij het qooqie dashboard. Vervolgens vervangt het script deze nummers in een qooqie call tracking nummer. 
 
 Het is ook mogelijk om met een spannertje zelf te kiezen welke telefoonnummers er vervangen dienen te worden op de website. Alle telefoonnummers die je wilt vervangen met een dynamisch qooqie nummer dien je te omhullen met een element naar keuze met het attribuut: class="qooqie-number-placeholder".
 # Wat moet je controleren als qooqie call tracking niet werkt op je website?
-Als eerste is het belangrijk om te kijken of het script goed op de website staat. Staat deze goed op de website, dan is het misschien toch nodig voor jouw website om het spannertje te plaatsen om het telefoonnummer heen. 
+Als qooqie call tracking niet werkt op je website dien je een aantal facetten na te gaan. Dit zijn:
+
+- De verificatie van het domein. Kijk of de verificatie van het domein goed is gegaan. Ga bij instellingen naar het tabblad "domein". Hier kan je zien of het script goed is geïmplementeerd op je website. Als dit niet geval is, ligt dat aan de plaatsing van het script of aan de overeenkomst tussen de nummers op de website en de doorschakelnummers.
+- Staat het script op de juiste plaats? Kijk bij instellingen onder integratie waar je het script moet plaatsen. Het script plak je onder de opende body tag.
+- Komen de doorschakelnummers overeen met de nummers op je website? Als deze niet overeen komen, kan het script van qooqie niet de nummers herkennen.
+- Track je meerdere vestigingen? Kijk of het spannertje op de juiste plek staat om het telefoonnummer heen. De juiste wijze is als volgt:
+```
+<span class="qooqie-priority-number-placeholder"> TEL. NUMMER </span>
+```
