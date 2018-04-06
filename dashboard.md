@@ -2,9 +2,9 @@
 # Algemeen realtime dashboard
 In het realtime dashboard van qooqie zie jij overzichtelijk terug wat er aan sessies geweest zijn op je website. Hierbij zie je de oproepen met unieke bellers. Ook zie je welke oproepen succesvol geweest zijn en welke gemist zijn. Qooqie spreekt van een succesvolle oproep als deze is aangenomen. Als laatste worden de conversie-ratio en de gemiddelde gespreksduur weergegeven.
 # Filteren op periode
-Je kan in het qooqie dashboard de gegevens van call tracking op momenten terug kijken die jij wilt inzien. Je kan bijvoorbeeld je gegevens van vandaag inzien, maar ook de gegevens van vorige maand of van drie maanden terug is mogelijk om in te zien. standaard staan de gegevens ingesteld op de huidige maand. 
+Je kunt in het qooqie dashboard de gegevens van call tracking op momenten terug kijken die jij wilt inzien. Je kunt bijvoorbeeld je gegevens van vandaag inzien, maar ook de gegevens van vorige maand of van drie maanden terug is mogelijk om in te zien. Standaard staan de gegevens ingesteld op de huidige maand. 
 # Filteren op conversies
-Je kan ook filteren op gegevens per conversie. De conversies kan je filteren op kanaal of op Google kanaal. 
+Je kunt ook filteren op gegevens per conversie. De conversies kan je filteren op kanaal of op Google kanaal. 
 ## Conversie per kanaal
 Bij de conversies per kanaal zie je welk kanaal de meeste conversies hebben opgeleverd. Je krijgt per kanaal te zien hoe veel oproepen er geweest zijn. 
 ## Conversie per Google kanaal
