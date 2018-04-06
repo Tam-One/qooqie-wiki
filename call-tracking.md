@@ -10,4 +10,4 @@ Met Offsite call tracking wordt er één traceerbaar telefoonnummer gekoppeld aa
 # Welke kanalen kan ik meten?
 Met qooqie call tracking kunnen vrijwel alle online en offline verkeersbronnen gemeten worden.
 # In welke landen is qooqie call tracking beschikbaar?
-Qooqie call tracking is beschikbaar heel Europa
+Qooqie call tracking is beschikbaar heel Europa.
