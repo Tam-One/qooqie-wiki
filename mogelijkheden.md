@@ -1,33 +1,29 @@
 <!-- TITLE: Mogelijkheden -->
 # Realtime dashboard
-Middels een overzichtelijk dashboard monitor je realtime de prestaties van al je marketingkanalen. per kanaal wordt er onder andere inzichtelijk gemaakt wie er heeft gebeld, hoe lang het gesprek heeft geduurd en welk keywoord heeft geleid tot een lead. qooqie call tracking maakt inzichtelijk hoeveel rendement je marketinginvestering oplevert. 
+Middels een overzichtelijk dashboard monitor je realtime de prestaties van al je marketingkanalen. Per kanaal wordt er onder andere inzichtelijk gemaakt wie er heeft gebeld, hoe lang het gesprek heeft geduurd en welk keyword heeft geleid tot een lead. Qooqie call tracking maakt inzichtelijk hoeveel rendement je marketinginvestering oplevert. 
 # Data overzichtelijk in grafieken
 Alles wat vanuit qooqie wordt gemeten, wordt weergegeven in overzichtelijke grafieken in het realtime dashboard. 
 ## Data filteren per campagne
-Je kan zelf uitkiezen van welke campagne jij de data wilt weergeven. 
+Je kunt zelf uitkiezen van welke campagne jij de data wilt weergeven. 
 ## Data filteren per periode
-Je kan zelf kiezen van welke periode jij de data inzichtelijk wilt hebben. Wil je de data van de afgelopen week, maand of half jaar inzien?
-
+Je kunt zelf kiezen van welke periode jij de data inzichtelijk wilt hebben. Wil je de data van de afgelopen week, maand of half jaar inzien?
 # Call recording
 Met qooqie call recording kunnen alle binnenkomende telefoongesprekken worden opgenomen. Deze telefonische leads kunnen op een later tijdstip vanuit je eigen dashboard worden teruggeluisterd en beoordeeld. Een handige tool om jouw service te verbeteren en het sales team beter te laten presteren. Call recording kan door jou zelf worden in- en uitgeschakeld.
 # Meerdere vestigingen
-Heb je meerdere vestigingen en wil je weten hoeveel conversies er per vestiging zijn. Dan biedt de optie multi-vestiging uitkomst. Nu kun je per vestiging de conversie inzichtelijk krijgen.
+Heb je meerdere vestigingen en wil je weten hoeveel conversies er per vestiging zijn. Dan biedt de optie Multi-vestiging uitkomst. Nu kun je per vestiging de conversie inzichtelijk krijgen.
 # Internationaal toepasbaar
 Qooqie call tracking is internationaal toepasbaar
 # Meten van meerdere domeinen
 Met qooqie call tracking is het ook mogelijk meerdere domeinen te meten.
 # E-mail notificaties
-Beheer de e-mailadressen voor het ontvangen van onder andere lead notificatie emails. Standaard wordt er voor elke lead een e-mail gestuurd naar de opgegeven adressen. 
+Beheer de e-mailadressen voor het ontvangen van onder andere lead notificatie e-mails. Standaard wordt er voor elke lead een e-mail gestuurd naar de opgegeven adressen. 
 
 Voeg een nieuw e-mailadres toe met de plus knop.
 Verwijder een e-mailadres met de min knop aan het einde van elke regel.
-
 ## Campagne/vestiging filters
-Wanneer de campagne filters voor een e-mailadres leeg zijn worden er geen emails verstuurd. Het is daarom belangrijk om de campagnes aan te vinken waarvan je lead notificaties wilt ontvangen.
-
+Wanneer de campagne filters voor een e-mailadres leeg zijn worden er geen e-mails verstuurd. Het is daarom belangrijk om de campagnes aan te vinken waarvan je lead notificaties wilt ontvangen.
 ## Leads 
 Ontvang alleen e-mail notificaties voor beantwoordde leads.
-
 ## Gemiste leads 
 Ontvang alleen e-mail notificaties voor gemiste oproepen.
 
