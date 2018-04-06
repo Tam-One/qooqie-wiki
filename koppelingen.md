@@ -71,12 +71,6 @@ Wil je toch liever zelf controle houden over de telefoonnummers die vervangen mo
 ![Span](/uploads/span.png "Span")
 
 
-# Informeren van de webbeheerder
-Als jij de website in beheer hebt van een webbeheerder, is het mogelijk om door hem of haar de integratie te laten doen.
-![Informeer](/uploads/informeer.png "Informeer")
-Als je klikt op informeer webbeheerder krijg je een pop-up waarin je het email-adres en het domein voor integratie opgeeft. Zo krijgt je webbeheerder de benodigde informatie.
-
-
 # API koppelingen
-
+Het is mogelijk om API koppelingen te maken met verschillende crm-systemen. 
 
