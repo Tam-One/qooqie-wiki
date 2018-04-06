@@ -22,7 +22,7 @@ Door middel van dynamisch gegenereerde nummers kan jij op je website meten waar 
 Door speciaal gegenereerde nummers kun jij ook al je andere campagnes meten, ook degenen vanuit bijvoorbeeld de krant. 
 In het dashboard voeg je een nieuwe campagne toe en geef aan dat je een off-site campagne gaat meten. Bijvoorbeeld print, radio of televisie. Vul de rest van de gegevens in en er zal een uniek traceerbaar telefoonnummer gegenereerd worden. Zo kan je ook off-site meten.
 # Ik heb meerdere vestigingen, maar wil er maar 1 meten.
-Ook dat is mogelijk met qooqie call tracking. Heb jij bijvoorbeeld meerdere vestigingen en maar voor één  vestiging een campagne? Met het attribuut: class=”qooqie-priority-number-placeholder” kun je dit instellen. Op de plekken waar je call tracking wil, plaats je dat stukje script. Op basis van de campagne en de gekoppelde vestiging wordt er een van de dynamische nummers op deze plek getoond.
+Ook dat is mogelijk met qooqie call tracking. Heb jij bijvoorbeeld meerdere vestigingen en maar voor één  vestiging een campagne? Met het attribuut: class=”qooqie-priority-number-placeholder” kun je dit instellen. Op de plekken waar je call tracking wil, plaats je dat spannertje. Op basis van de campagne en de gekoppelde vestiging wordt er een van de dynamische nummers op deze plek getoond.
 # Het vervangen van nummers op je website
 Het vervangen van nummers wordt automatisch gedaan door het script zodra deze op je website staat. Het script herkent namelijk de telefoonnummers. Als je de functie inschakelt, dan gaat het script op je website op zoek naar de doorschakelnummers die jij hebt ingegeven bij het qooqie dashboard. Vervolgens vervangt het script deze nummers in een qooqie call tracking nummer. 
 
