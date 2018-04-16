@@ -28,3 +28,6 @@ Dynamische nummers worden gekoppeld aan het verkeer dat naar je website komt. Zo
 Ja, het is mogelijk om telefoonnummers van qooqie regionaal weer te geven. Zo kan jij ook lokale acties meten. 
 # Kan ik een landelijk nummer tonen?
 Ja, het is mogelijk om een landelijk nummer te tonen.
+
+# Mijn sessies in het qooqie dashboard komen niet overeen met het aantal sessies in Analytics.
+Dit klopt. In Google Analytics staan de unieke sessies (unieke bezoekers) en in het qooqie dashboard staan het totaal aantal sessies. Een bezoeker kan meerdere sessies hebben. Ook is het zo dat niet elk bezoek wordt gekoppeld aan een qooqie sessie. 
