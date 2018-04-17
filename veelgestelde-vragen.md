@@ -18,6 +18,13 @@ Als qooqie call tracking niet werkt op je website dien je een aantal facetten na
 ```
 <span class="qooqie-priority-number-placeholder"> TEL. NUMMER </span>
 ```
+# Moet mijn geluidsfragment ergens aan voldoen?
+Ja, het geluidsfragment dat jij wilt gaan uploaden voor bijvoorbeeld de IVR, moet aan de volgende eisen voldoen:
+
+Extensie: .wav 
+Sample Rate: 8000 Hz 
+minimaal 8 Bits
+Mono
 # Wat is off-site meten? 
 Off-site meten gaat om alle metingen die off-site gebeuren, dus niet op de site. Dit is bijvoorbeeld een flyer met een traceerbaar telefoonnummer. Ook kan het gaan om Google mijn bedrijf waar ook weer een uniek traceerbaar telefoonnummer getoond wordt. 
 # Wat is on-site meten?
