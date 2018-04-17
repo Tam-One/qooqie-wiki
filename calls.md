@@ -23,4 +23,4 @@ Met een regionaal telefoonnummer laat je zien vanuit welke regio je komt. Dit zi
 # Nationaal nummer
 Een nationaal telefoonnummer is een landelijk telefoonnummer waar je niet direct uit kunt afleiden vanuit welke regio je komt. Dit kunnen bijvoorbeeld 085-nummers zijn. 
 # Nummeruitgave
-Nummeruitgave vindt plaats vanuit qooqie. Op basis van het pakket dat jij hebt gekozen, krijg je een aantal dynamische Google AdWords leadnummers en vaste telefoonnummers toegewezen aan jouw account.
+Nummeruitgifte vindt plaats vanuit qooqie. Op basis van het pakket dat jij hebt gekozen wordt het aantal vaste nummers bepaald. 
