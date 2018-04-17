@@ -7,7 +7,12 @@ De beoordeling wordt automatisch gekoppeld aan het inkomende gesprek. De beoorde
 # Fragment beoordeling
 Nadat de klant of prospect heeft opgehangen wordt er standaard een geluidsfragment afgespeeld met de beoordelingsvraag. **Gedurende** dit fragment kan de telefoniste het telefoontje al beoordelen met een 0 of 1 en vervolgens ophangen om het gesprek te beoordelen. 
 
-Het fragment voor de beoordeling wordt standaard aangeleverd door qooqie. Het is ook mogelijk om een eigen beoordelingsfragment te uploaden.
+Het fragment voor de beoordeling wordt standaard aangeleverd door qooqie. Het is ook mogelijk om een eigen beoordelingsfragment te uploaden. Het beoordelingsfragment dat je zelf kan uploaden moet wel voldoen aan een aantal eisen, namelijk: 
+
+Extensie: .wav 
+Sample Rate: 8000 Hz 
+minimaal 8 Bits 
+Mono
 # Welke geluidsfragmenten zijn er?
 Er zijn op dit moment drie typen geluidsfragmenten voor de IVR Beoordeling. Allereerst is er de opname voor de beoordelingsvraag. Deze vraag geeft aan om het gesprek te beoordelen met een 0 of een 1. Bij 1 gaat het om een sales call en bij 2 om een support call. 
 
@@ -19,7 +24,8 @@ De bestanden voor een geluidsfragment dienen aan een aantal voorwaarden te voldo
 
 Extensie: .wav 
 Sample Rate: 8000 Hz 
-Minimaal 8 Bits, Mono
+Minimaal 8 Bits
+Mono
 # Uitbreiden IVR beoordeling
 Het is mogelijk om de IVR beoordeling uit te breiden naar wat jij nodig hebt. Echter moet dit op maat gemaakt worden en daarom raden wij aan contact op te nemen met ons voor de mogelijkheden. Enkele voorbeelden zijn meer keuzes/beoordelingen na het gesprek, het gesprek laten beoordelen door de klant of een aanvraag vooraf. 
 
