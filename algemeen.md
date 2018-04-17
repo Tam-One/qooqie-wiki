@@ -18,7 +18,7 @@ Iedere bezoeker die op jouw website komt, krijgt een eigen uniek telefoonnummer 
 # Vast nummer
 Een vast nummer wordt uitgegeven voor een campagne waarbij er maar één nummer nodig is om te kunnen meten. Dit kan bijvoorbeeld een flyer- of een brochure campagne zijn. 
 # On-site meten
-Door middel van dynamisch gegenereerde nummers kan jij op je website meten waar de inkomende telefoontjes vandaan komen.
+Door middel van dynamisch gegenereerde telefoonnummers kan jij op je website meten waar de inkomende telefoontjes vandaan komen.
 # Off-site meten
 Door speciaal gegenereerde nummers kun jij ook al je andere campagnes meten, bijvoorbeeld vanuit de krant of een flyer. 
 In het dashboard voeg je een nieuwe campagne toe en geef aan dat je een off-site campagne gaat meten. Bijvoorbeeld print, radio of televisie. Vul de rest van de gegevens in en er zal een uniek traceerbaar telefoonnummer gegenereerd worden. Zo kan je ook off-site meten.
