@@ -49,7 +49,7 @@ Als je geen Google Tag Manager gebruikt of het zelf wilt doen, kan je ook integr
     })();
 </script>
 ```
-Vergeet niet om automatisch nummers vervangen aan te zetten!
+**Vergeet niet om automatisch nummers vervangen aan te zetten!**
 
 Het script heeft de mogelijkheid om automatisch telefoonnummers op je website(s) te herkennen. Wanneer je de functie inschakelt en het script een van je doorschakelnummers herkent, zal er automatisch een qooqie nummer worden geplaatst ter vervanging van het gevonden standaard telefoonnummer. 
 # Handmatig nummers aanpassen
