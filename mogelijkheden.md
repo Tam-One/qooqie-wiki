@@ -12,7 +12,7 @@ Met qooqie call recording kunnen alle binnenkomende telefoongesprekken worden op
 # Meerdere vestigingen
 Heb je meerdere vestigingen en wil je weten hoeveel conversies er per vestiging zijn. Dan biedt de optie Multi-vestiging uitkomst. Nu kun je per vestiging de conversie inzichtelijk krijgen.
 # Internationaal toepasbaar
-Qooqie call tracking is internationaal toepasbaar
+Qooqie call tracking is internationaal toepasbaar.
 # Meten van meerdere domeinen
 Met qooqie call tracking is het ook mogelijk meerdere domeinen te meten.
 # E-mail notificaties
@@ -36,4 +36,4 @@ Elk bedrijf en iedere ondernemer wil weten wat zijn of haar campagne oplevert. M
 # Koppelingen
 Het is mogelijk om qooqie te koppelen met je Google account. 
 # API koppelingen
-Er kunnen API koppelingen gemaakt worden tussen je systemen en het qooqie platform.
+Er kunnen API koppelingen gemaakt worden tussen je systemen en het qooqie platform. Hierdoor kunnen de resultaten van het call tracking direct worden teruggeschoten in jouw eigen crm-systeem. 
