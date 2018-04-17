@@ -7,7 +7,7 @@ De beoordeling wordt automatisch gekoppeld aan het inkomende gesprek. De beoorde
 # Fragment beoordeling
 Nadat de klant of prospect heeft opgehangen wordt er standaard een geluidsfragment afgespeeld met de beoordelingsvraag. **Gedurende** dit fragment kan de telefoniste het telefoontje al beoordelen met een 0 of 1 en vervolgens ophangen om het gesprek te beoordelen. 
 
-Het fragment voor de beoordeling wordt standaard aangeleverd door qooqie. Het is ook mogelijk om een eigen beoordelingsfragment te uploaden. Het beoordelingsfragment dat je zelf kan uploaden moet wel voldoen aan een aantal eisen, namelijk: 
+Het beoordelingsfragment wordt standaard aangeleverd door qooqie. Het is ook mogelijk om een eigen beoordelingsfragment te uploaden. Het beoordelingsfragment dat je zelf kan uploaden moet wel voldoen aan een aantal eisen, namelijk: 
 
 Extensie: .wav 
 Sample Rate: 8000 Hz 
