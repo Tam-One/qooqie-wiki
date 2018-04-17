@@ -9,3 +9,6 @@ Het mediatype waarop je je campagne wilt uitzetten is het volgende wat je kiest.
 # Gearchiveerde campagnes
 In de gearchiveerde campagnes staan alle campagnes die voorbij zijn. Hier kan je nog een keer de campagnes terug kijken en wat de leads er uit zijn geweest.
 
+# Verwijderen van een campagne
+Onder het kopje 'gearchiveerde campagnes' kan je campagnes verwijderen.
+
